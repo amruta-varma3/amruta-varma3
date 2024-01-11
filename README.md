@@ -1,12 +1,6 @@
-### Hi there 👋
-
-<!--
-**amruta-varma3/amruta-varma3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Amruta Varma</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruta-varma3" alt="amruta-varma3" /></a> </p>
+<img align="right" alt="Coding" width="400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"
 
 - 🔭 I’m currently working on **Machine Learning,Deep Learning,NLP**
 
@@ -18,7 +12,7 @@
 
 - 📫 How to reach me **amrutavarma23@gmail.com**
 
-- 📄 Know about my experiences [over here https://www.linkedin.com/in/amrutavarma3/](over here https://www.linkedin.com/in/amrutavarma3/)
+- 📄 Know about my experiences [over here https://www.linkedin.com/in/amrutavarma3/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
