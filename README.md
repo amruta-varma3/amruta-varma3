@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amruta Varma</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align="right" alt="Coding" width="400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"
-
+<img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 - 🔭 I’m currently working on **Machine Learning,Deep Learning,NLP**
 
 - 🌱Completed **Data Science Certification and Python Developer Certification**
 
-- 👨‍💻 All of my projects are available at [This Github Profile](This Github Profile)
+- 👨‍💻 All of my projects are available at [This Github Profile]
 
 - 💬 Achievements **National Level Player in Cricket**
 
